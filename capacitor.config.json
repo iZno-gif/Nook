@@ -1,0 +1,6 @@
+{
+  "appId": "com.nook.productivity",
+  "appName": "Nook",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
